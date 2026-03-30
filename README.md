@@ -47,7 +47,7 @@ uvicorn app.main:app --reload
 | URL | Description |
 |---|---|
 | `http://127.0.0.1:8000` | Base API |
-| `http://127.0.0.1:8000/docs` | Swagger / Interactive Docs |
+| `http://127.0.0.1:8000/docs` | Swagger/Interactive Docs |
 
 ### 5. Start the UI (Streamlit)
 ```bash
