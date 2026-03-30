@@ -2,6 +2,17 @@
 
 A simple yet powerful AI-powered API that enhances text using Large Language Models (LLMs). Users can improve writing, summarize content or generate ideas through a single API endpoint.
 
+## Quick Glance
+<p align="center">
+  <img src="Streamlit Screenshots/1.png" alt="1" width="1000"/><br>
+  <img src="Streamlit Screenshots/2.png" alt="2" width="1000"/><br>
+  <img src="Streamlit Screenshots/3.png" alt="3" width="1000"/><br>
+  <img src="Streamlit Screenshots/4.png" alt="4" width="1000"/><br>
+  <img src="Streamlit Screenshots/5.png" alt="5" width="1000"/><br>
+  <img src="Streamlit Screenshots/6.png" alt="4" width="1000"/><br>
+  <img src="Streamlit Screenshots/7.png" alt="5" width="1000"/><br>
+</p>
+
 ## ✨ Features
 
 | Feature | Description |
